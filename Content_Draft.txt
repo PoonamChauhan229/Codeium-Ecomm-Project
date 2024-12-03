@@ -25,5 +25,53 @@ Security and vulnerability testing
 Is AI-Treat?
 No	Instead, as a coder or programmer, you should embrace AI and learn to integrate it into your development practice. Software developers, specifically those who work in AI, create tools meant to make life easier. 		
 
+Right Now, we have many AI Tools
+Tabnine	
+Codeium	
+Google Gemini	
+Chat GPT	
+CoPilot
+
+Out of you all have used many of them and today we will be exploring Codeium
+
+So let us install Codeium
+EXtention Market >> Install Codeium and it will ask for Authentication
+Then click on Allow
+
+Now let us create a react project and use our Codeium AutoSuggestion and Chat
+
+In AI Tools,Most important is how we provide the Prompt
+Its nowadays called as Prompt Enginnering
+
+Prompt Engineering is a technique to guide the AI to the right direction with the right context.
+
+Key Concepts of Prompt Engineering
+1-Clarity:
+
+Provide clear and concise instructions.
+Example: Instead of "Tell me about React,
+>>"Explain React, focusing on its component-based architecture and state management."
+
+2-Context:
+Add context to the prompt for tailored responses and improves Accuracy
+Example: "I am Fan of JavaScript" >> So this means i am saying in context of javascript not above the Fan which i have.
+
+3-Structure:
+
+Use structured prompts to get specific outputs.
+Example:
+Task: "Generate task suggestions."
+Input: "Create a meeting plan."
+
+Expected Output:"1. Book a conference room.
+                 2. Send calendar invites. 
+                 3. Prepare slides."
+
+Best Practices in Prompt Engineering
+Use step-by-step instructions for complex tasks.
+Provide examples in the prompt for better context.
+Ask the model to infer the task without examples.
+
+
 
 
