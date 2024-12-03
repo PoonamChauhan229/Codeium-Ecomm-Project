@@ -5,6 +5,12 @@ import ProductCard from './ProductCard';
 
 function ProductsPage() {
   const [products, setProducts] = useState([]);
+  const [cart, setCart] = useState([]);
+
+  const handleAddToCart = (product) => {
+    setCart([...cart, product]);
+  };
+
 
   useEffect(() => {
     const fetchProducts = async () => {
@@ -22,7 +28,7 @@ function ProductsPage() {
   return (
     <div className="product-list">
       {products.map(product => (       
-        <ProductCard {...product} key={product._id}/>
+        <ProductCard {...product} key={product._id} handleAddToCart={handleAddToCart} />
       ))}
     </div>
   );

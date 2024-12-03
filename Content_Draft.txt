@@ -1,0 +1,29 @@
+What is the MERN Stack?  
+A full-stack JavaScript-based framework:
+MERN: MongoDB, Express.js, React.js, Node.js
+MongoDB: NoSQL database.
+Express.js: Backend framework.
+React.js: Frontend library.
+Node.js: JavaScript runtime.
+
+How AI Complements MERN? 
+Its Adds intelligence to web applications.
+
+Objective of AI:
+Build smarter, scalable web apps using MERN and AI.
+
+What AI Tools can do for us	
+Code completion and generation
+Code documentation	
+Multi-language support	
+Third-party integrations	
+Debugging code	
+Chat features	
+User testing	
+Security and vulnerability testing
+
+Is AI-Treat?
+No	Instead, as a coder or programmer, you should embrace AI and learn to integrate it into your development practice. Software developers, specifically those who work in AI, create tools meant to make life easier. 		
+
+
+
